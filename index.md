@@ -95,7 +95,7 @@ code, pre {
 </style>
 
  
-### _Physics (E-portfolio):  edwyn angel barja maglasang_
+### _edwyn angel barja maglasang_
 
 ---
 
@@ -110,9 +110,10 @@ My initial goals for the course were:
 - See how concepts apply in real-world settings  
 - Understand physics applications across various fields and industries  
 
-I aimed to see physics not only as equations—but as patterns, logic, and hidden machinery running underneath reality.
+I aimed to see physics not only as equations- but as patterns, logic, and hidden machinery running underneath reality.
 
 Course Outcomes: 
+
 Course Outcome 1: Students will learn about the principles of electricity, electric charge, electric fields, and electric potential. Students will also learn about Coulomb's law and the concept of electric field lines. The module aims to build a strong foundation for understanding more complex concepts in electricity. Furthermore, students will explore the fundamental principles of electric circuits and Ohm's law. They will learn about resistance, current, and voltage, and how these elements relate to each other in a circuit. The module will cover Kirchhoff's laws and the calculation of equivalent resistance in series and parallel circuits.
 
 Course Outcome 2: Explore the basic concepts of magnetism, including magnetic fields, magnetic forces, and magnetic materials. Understand how magnetic fields are created and how they interact with each other.
@@ -126,8 +127,6 @@ Course Outcome 3: This module introduces the fundamental concepts of geometric o
 Below is a summary of my quiz and homework performance throughout the course.
 
 ### **Assessment Summary**
-
-> * ^ *
 
 | Assessment | Score | Course Outcome No. | Insights & Learnings |
 |-----------|--------|----------------|------------------------|
@@ -173,7 +172,7 @@ Below is a summary of my quiz and homework performance throughout the course.
 ![FE](assets/scores/Screenshot%202025-11-15 131532.png)
 
 #### FULL GRADES AND SCORES:  
-![--](assets/scores/Screenshot%2025-11-15 123625.png)
+![--](assets/scores/Screenshot 2025-11-15 123625.png)
 
 ---
 
@@ -191,7 +190,7 @@ In the end, this course didn’t just help me learn physics—it helped me refin
 
 ---
 
-# END OF PORTFOLIO  
+# ---
 ### _“Is it a fact – or have I dreamt it – that, by means of electricity, the world of matter has become a great nerve, vibrating thousands of miles in a breathless point of time?”
 ― Nathaniel Hawthorne_
 
