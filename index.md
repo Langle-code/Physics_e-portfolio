@@ -140,7 +140,7 @@ Below is a summary of my quiz and homework performance throughout the course.
 | Assignment 2 | 90/100 | CO2| A strong 90/100 reflects that I was able to clearly understand magnetic field interactions and apply the concepts effectively.|
 | Assignment 3 | 86/100 | CO3 | I feel like I I had a good grasp of the concepts of reflection, refraction, and light behavior through different media. |
 | Assignment 4 | 95/100 | CO3 | Through this activity, I learned to visualize light paths more intuitively and apply optical principles more accurate |
-| Certificate of Completion | 80.64/100 | C01-C03 | irealized having additional resources and access to more teachings really helps in deepening my understanding. |
+| Certificate of Completion | 80.64/100 | C01-C03 | I realized having additional resources and access to more teachings really helps in deepening my understanding. |
 | **Final Exam** | 55/100 | C01-C03 | All that I have learned are tested and tried in this activity. |
 
 ---
