@@ -94,8 +94,8 @@ code, pre {
 }
 </style>
 
-# ⚡ PHYSICS E-PORTFOLIO  
-### _edwyn angel barja maglasang_
+ 
+### _Physics (E-portfolio):  edwyn angel barja maglasang_
 
 ---
 
