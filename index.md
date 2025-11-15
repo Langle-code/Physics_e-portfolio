@@ -95,13 +95,13 @@ code, pre {
 </style>
 
 # ⚡ PHYSICS E-PORTFOLIO  
-### _A Punk-Styled Academic Submission_
+### _edwyn angel barja maglasang_
 
 ---
 
-## 👤 1. INTRODUCTION / BIO
+## 1. INTRODUCTION / BIO
 
-Hello! I am a BS Computer Science student taking this physics course to deepen my understanding of how the world works from the ground up.
+Hello! I am Edwyn Angel Barja Maglasang, a BS Computer Science student taking this college physics 2 course to deepen my understanding of how the world works from the ground up.
 
 My initial goals for the course were:
 
@@ -114,22 +114,23 @@ I aimed to see physics not only as equations—but as patterns, logic, and hidde
 
 ---
 
-## 📝 2. FOUNDATIONAL EVIDENCE
+## 2. FOUNDATIONAL EVIDENCE
 
 Below is a summary of my quiz and homework performance throughout the course.
 
 ### **Assessment Summary**
 
-> *Note: Replace the blanks with your actual scores.*
+> * ^ *
 
 | Assessment | Score | Course Outcome | Insights & Learnings |
 |-----------|--------|----------------|------------------------|
-| Quiz 1 | _ | _ | _ |
-| Quiz 2 | _ | _ | _ |
-| Homework 1 | _ | _ | _ |
-| Homework 2 | _ | _ | _ |
-| Quiz 3 | _ | _ | _ |
-| Homework 3 | _ | _ | _ |
+| Quiz 1 | 83/100 | _ | _ |
+| Quiz 2 | 80/100 | _ | _ |
+| Quiz 3 | 72/100 | _ | _ |
+| Assignment 1 | 68/100 | _ | _ |
+| Assignment 2 | 90/100 | _ | _ |
+| Assignment 3 | 86/100 | _ | _ |
+| Assignment 4 | 95/100 | _ | _ |
 | **Final Exam** | _ | _ | _ |
 
 ---
@@ -155,7 +156,7 @@ Then link them like:
 
 ---
 
-## ✨ 3. REFLECTIVE ESSAY
+## REFLECTIVE ESSAY
 
 Throughout this course, I discovered several things about myself as a learner.
 
