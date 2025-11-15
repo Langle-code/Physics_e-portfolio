@@ -112,6 +112,12 @@ My initial goals for the course were:
 
 I aimed to see physics not only as equations—but as patterns, logic, and hidden machinery running underneath reality.
 
+Course Outcomes: 
+Course Outcome 1: Students will learn about the principles of electricity, electric charge, electric fields, and electric potential. Students will also learn about Coulomb's law and the concept of electric field lines. The module aims to build a strong foundation for understanding more complex concepts in electricity. Furthermore, students will explore the fundamental principles of electric circuits and Ohm's law. They will learn about resistance, current, and voltage, and how these elements relate to each other in a circuit. The module will cover Kirchhoff's laws and the calculation of equivalent resistance in series and parallel circuits.
+
+Course Outcome 2: Explore the basic concepts of magnetism, including magnetic fields, magnetic forces, and magnetic materials. Understand how magnetic fields are created and how they interact with each other.
+
+Course Outcome 3: This module introduces the fundamental concepts of geometric optics. Students will explore the basic principles of reflection and refraction and how these principles apply to everyday optical devices. Expect hands-on activities to apply these concepts in practical situations, enhancing understanding through visualization.
 ---
 
 ## 2. FOUNDATIONAL EVIDENCE
@@ -122,16 +128,16 @@ Below is a summary of my quiz and homework performance throughout the course.
 
 > * ^ *
 
-| Assessment | Score | Course Outcome | Insights & Learnings |
+| Assessment | Score | Course Outcome No. | Insights & Learnings |
 |-----------|--------|----------------|------------------------|
-| Quiz 1 | 83/100 | _ | _ |
-| Quiz 2 | 80/100 | _ | _ |
-| Quiz 3 | 72/100 | _ | _ |
-| Assignment 1 | 68/100 | _ | _ |
-| Assignment 2 | 90/100 | _ | _ |
-| Assignment 3 | 86/100 | _ | _ |
-| Assignment 4 | 95/100 | _ | _ |
-| **Final Exam** | _ | _ | _ |
+| Quiz 1 | 83/100 | CO1|  |
+| Quiz 2 | 80/100 | CO2 | _ |
+| Quiz 3 | 72/100 | CO3 | _ |
+| Assignment 1 | 68/100 | CO1 | _ |
+| Assignment 2 | 90/100 | CO2| _ |
+| Assignment 3 | 86/100 | CO3 | _ |
+| Assignment 4 | 95/100 | CO3 | _ |
+| **Final Exam** | 55/100 | _ | _ |
 
 ---
 
@@ -170,7 +176,8 @@ In the end, this course didn’t just help me learn physics—it helped me refin
 
 ---
 
-# 🖤 END OF PORTFOLIO  
-### _Thank you for reading._
+# END OF PORTFOLIO  
+### _“Is it a fact – or have I dreamt it – that, by means of electricity, the world of matter has become a great nerve, vibrating thousands of miles in a breathless point of time?”
+― Nathaniel Hawthorne_
 
 
