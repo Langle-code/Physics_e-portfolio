@@ -120,6 +120,7 @@ Course Outcome 2: Explore the basic concepts of magnetism, including magnetic fi
 
 Course Outcome 3: This module introduces the fundamental concepts of geometric optics. Students will explore the basic principles of reflection and refraction and how these principles apply to everyday optical devices. Expect hands-on activities to apply these concepts in practical situations, enhancing understanding through visualization.
 
+
 ---
 
 ## 2. FOUNDATIONAL EVIDENCE
