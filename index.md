@@ -130,15 +130,15 @@ Below is a summary of my quiz and homework performance throughout the course.
 
 | Assessment | Score | Course Outcome No. | Insights & Learnings |
 |-----------|--------|----------------|------------------------|
-| Quiz 1 | 83/100 | CO1|  |
-| Quiz 2 | 80/100 | CO2 | _ |
-| Quiz 3 | 72/100 | CO3 | _ |
-| Assignment 1 | 68/100 | CO1 | _ |
-| Assignment 2 | 90/100 | CO2| _ |
-| Assignment 3 | 86/100 | CO3 | _ |
-| Assignment 4 | 95/100 | CO3 | _ |
-| Certificate of Completion | 80.64/100 | _ | _ |
-| **Final Exam** | 55/100 | _ | _ |
+| Quiz 1 | 83/100 | CO1| I developed a solid grasp of the fundamentals of electricity. his quiz helped strengthen my understanding of electricity and circuits. |
+| Quiz 2 | 80/100 | CO2 | This assessment also improved my ability to visualize field interactions and understand the relationship between electricity and magnetism. |
+| Quiz 3 | 72/100 | CO3 | I still need more practice applying these concepts to real-world systems |
+| Assignment 1 | 68/100 | CO1 | This activity pushed me to revisit the fundamentals and be more systematic in solving problems.|
+| Assignment 2 | 90/100 | CO2| A strong 90/100 reflects that I was able to clearly understand magnetic field interactions and apply the concepts effectively.|
+| Assignment 3 | 86/100 | CO3 | I feel like I I had a good grasp of the concepts of reflection, refraction, and light behavior through different media. |
+| Assignment 4 | 95/100 | CO3 | Through this activity, I learned to visualize light paths more intuitively and apply optical principles more accurate |
+| Certificate of Completion | 80.64/100 | C01-C03 | irealized having additional resources and access to more teachings really helps in deepening my understanding. |
+| **Final Exam** | 55/100 | C01-C03 | All that I have learned are tested and tried in this activity. |
 
 ---
 
