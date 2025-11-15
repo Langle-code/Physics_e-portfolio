@@ -149,31 +149,31 @@ Below is a summary of my quiz and homework performance throughout the course.
 ![Quiz 1](assets/scores/Screenshot%202025-11-15 130539.png)
 
 #### Quiz 2  
-![Quiz 2](https://github.com/Langle-code/Physics_e-portfolio/blob/main/Screenshot%202025-11-15%20130611.png)
+![Quiz 2](assets/scores/Screenshot%202025-11-15 130611.png)
 
 #### Quiz 3  
-![Quiz 2](https://github.com/Langle-code/Physics_e-portfolio/blob/main/Screenshot%202025-11-15%20130626.png)
+![Quiz 2](assets/scores/Screenshot%202025-11-15 130626.png)
 
 #### Assignment 1 
-![A1](https://github.com/Langle-code/Physics_e-portfolio/blob/main/Screenshot%202025-11-15%20130709.png)
+![A1](assets/scores/Screenshot%202025-11-15 130709.png)
 
 #### Assignment 2 
-![A2](https://github.com/Langle-code/Physics_e-portfolio/blob/main/Screenshot%202025-11-15%20140110.png)
+![A2](assets/scores/Screenshot%202025-11-15 140110.png)
 
 #### Assignment 3 
-![A3](https://github.com/Langle-code/Physics_e-portfolio/blob/main/Screenshot%202025-11-15%20131449.png)
+![A3](assets/scores/Screenshot%202025-11-15 131449.png)
 
 #### Assignment 4 
-![A4](https://github.com/Langle-code/Physics_e-portfolio/blob/main/Screenshot%202025-11-15%20131504.png)
+![A4](assets/scores/Screenshot%202025-11-15 131504.png)
 
 #### Certificate of Completion 
-![A1](https://github.com/Langle-code/Physics_e-portfolio/blob/main/Screenshot%202025-11-15%20131541.png)
+![CC](assets/scores/Screenshot%202025-11-15 131541.png)
 
 #### Final Exam
-![FE](https://github.com/Langle-code/Physics_e-portfolio/blob/main/Screenshot%202025-11-15%20131532.png)
+![FE](assets/scores/Screenshot%202025-11-15 131532.png)
 
 #### FULL GRADES AND SCORES:  
-![--](assets/scores/Screenshot 2025-11-15 123625.png)
+![--](assets/scores/Screenshot%2025-11-15 123625.png)
 
 ---
 
