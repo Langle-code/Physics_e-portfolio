@@ -138,7 +138,7 @@ Below is a summary of my quiz and homework performance throughout the course.
 | Assignment 2 | 90/100 | CO2| _ |
 | Assignment 3 | 86/100 | CO3 | _ |
 | Assignment 4 | 95/100 | CO3 | _ |
-| Certificate of Completion | 85.34/100 | _ | _ |
+| Certificate of Completion | 80.64/100 | _ | _ |
 | **Final Exam** | 55/100 | _ | _ |
 
 ---
@@ -152,7 +152,28 @@ Below is a summary of my quiz and homework performance throughout the course.
 ![Quiz 2](https://github.com/Langle-code/Physics_e-portfolio/blob/main/Screenshot%202025-11-15%20130611.png)
 
 #### Quiz 3  
-![HW1](assets/scores/hw1.png)
+![Quiz 2](assets/scores/hw1.png)
+
+#### Assignment 1 
+![A1](assets/scores/hw1.png)
+
+#### Assignment 2 
+![A2](assets/scores/hw1.png)
+
+#### Assignment 3 
+![A3](assets/scores/hw1.png)
+
+#### Assignment 4 
+![A4](assets/scores/hw1.png)
+
+#### Certificate of Completion 
+![A1](assets/scores/hw1.png)
+
+#### Final Exam
+![FE](assets/scores/hw1.png)
+
+#### FULL GRADES AND SCORES:  
+![--](assets/scores/hw1.png)
 
 ---
 
