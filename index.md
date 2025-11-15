@@ -144,16 +144,8 @@ Below is a summary of my quiz and homework performance throughout the course.
 
 ### **Screenshots / Proof of Scores**
 
-Store images in:
-
-
-
-
-
-Then link them like:
-
 #### Quiz 1  
-![Quiz 1](assets/scores/quiz1.png)
+![Quiz 1](https://github.com/Langle-code/Physics_e-portfolio/blob/main/Screenshot%202025-11-15%20130539.png)
 
 #### Quiz 2  
 ![Quiz 2](assets/scores/quiz2.png)
