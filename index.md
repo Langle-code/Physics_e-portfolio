@@ -161,7 +161,7 @@ Below is a summary of my quiz and homework performance throughout the course.
 ![A2](assets/scores/hw1.png)
 
 #### Assignment 3 
-![A3](assets/scores/hw1.png)
+![A3](https://github.com/Langle-code/Physics_e-portfolio/blob/main/Screenshot%202025-11-15%20131449.png)
 
 #### Assignment 4 
 ![A4](assets/scores/hw1.png)
