@@ -127,6 +127,8 @@ Course Outcome 3: This module introduces the fundamental concepts of geometric o
 
 Below is a summary of my quiz and homework performance throughout the course.
 
+
+
 ### **Assessment Summary**
 
 | Assessment | Score | Course Outcome No. | Insights & Learnings |
