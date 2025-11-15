@@ -170,7 +170,7 @@ Below is a summary of my quiz and homework performance throughout the course.
 ![A1](https://github.com/Langle-code/Physics_e-portfolio/blob/main/Screenshot%202025-11-15%20131541.png))
 
 #### Final Exam
-![FE](assets/scores/hw1.png)
+![FE](https://github.com/Langle-code/Physics_e-portfolio/blob/main/Screenshot%202025-11-15%20131532.png)
 
 #### FULL GRADES AND SCORES:  
 ![--](https://github.com/Langle-code/Physics_e-portfolio/blob/main/Screenshot%202025-11-15%20123625.png)
